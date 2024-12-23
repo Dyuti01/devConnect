@@ -15,7 +15,7 @@
 - POST /request/send/ignored/:userId
 - POST /request/review/accepted/:requestId
 - POST /request/review/rejected/:requestId
-- POST /request/send/:fromUserId/:toUserId
+<!-- - POST /request/send/:fromUserId/:toUserId -->
 
 ### userRouter
 - GET /user/connections
